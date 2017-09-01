@@ -1,4 +1,5 @@
 # library-functions
+###### Like all the projects on this github, simply type 'make' into the command line while in the repository directory to compile
 Huge collection of library functions as recreated by yours truly
 
 The school I go to forbids the use of non-original code. Because of this the first project for all new students is to create a library of standard functions of their own. This is my library. There are many like it, but this one is mine.
